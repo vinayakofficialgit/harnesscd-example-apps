@@ -1,0 +1,6 @@
+
+
+sudo snap install dotnet-sdk --classic
+
+sudo snap install dotnet-runtime-60   --6 version
+sudo apt-get remove dotnet-sdk-6.0     
